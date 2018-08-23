@@ -1,0 +1,6 @@
+Membership app for We Race Here https://weracehere.org
+
+Requirments
+Django >= 2.0.8
+Python >= 3.7
+PostgreSQL
